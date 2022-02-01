@@ -1,0 +1,16 @@
+#bir {
+    position: absolute;
+    top: 21.5vw;
+    left: 43.5vw;
+    border: 3px solid red;
+    width: 4vw;
+    height: 4vw;
+}
+#iki {
+    position: absolute;
+    top: 21.5vw;
+    left: 31.5vw;
+    border: 3px solid red;
+    width: 4vw;
+    height: 4vw;
+}

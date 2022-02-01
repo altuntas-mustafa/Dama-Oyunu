@@ -1,3 +1,9 @@
+button {
+    color: red;
+}
+#black-10:active {
+    color: yellow;
+}
 #black-1 {
     position: absolute;
     /* top: 15.5vw;

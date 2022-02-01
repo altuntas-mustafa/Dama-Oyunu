@@ -35,48 +35,55 @@ function moveBlack7(){
     }  
 }
 function moveBlack8(){
+
     if (document.getElementById("black-8").style.top === "15.5vw"){
         document.getElementById("black-8").style.top = "21.5vw";
     }  
 }
 function moveBlack9(){
-    if (document.getElementById("black-9").style.top === "21.5vw"){
-        document.getElementById("black-9").style.top = "27.5vw";
+    if (document.getElementById("black-9").style.top === "9.5vw"){
+        document.getElementById("black-9").style.top = "15.5vw";
     }  
+    
 }
-function moveBlack10(){
-    if (document.getElementById("black-10").style.top === "21.5vw"){
-        document.getElementById("black-10").style.top = "27.5vw";
-    }  
-}
+// function moveBlack10(){
+//     document.getElementById('a3').style.color = 'green';
+//     document.getElementById('c3').style.color = 'green';
+//     if (document.getElementById("black-10").style.top === "9.5vw"){
+//         document.getElementById("black-10").style.top = "21.5vw";
+//         document.getElementById("black-10").style.left = "43.5vw";
+//     }  
+//     // document.getElementById('a3').style.color = '';
+    
+// }
 function moveBlack11(){
-    if (document.getElementById("black-11").style.top === "21.5vw"){
-        document.getElementById("black-11").style.top = "27.5vw";
+    if (document.getElementById("black-11").style.top === "9.5vw"){
+        document.getElementById("black-11").style.top = "15.5vw";
     }  
 }
 function moveBlack12(){
-    if (document.getElementById("black-12").style.top === "21.5vw"){
-        document.getElementById("black-12").style.top = "27.5vw";
+    if (document.getElementById("black-12").style.top === "9.5vw"){
+        document.getElementById("black-12").style.top = "15.5vw";
     }  
 }
 function moveBlack13(){
-    if (document.getElementById("black-13").style.top === "21.5vw"){
-        document.getElementById("black-13").style.top = "27.5vw";
+    if (document.getElementById("black-13").style.top === "9.5vw"){
+        document.getElementById("black-13").style.top = "15.5vw";
     }  
 }
 function moveBlack14(){
-    if (document.getElementById("black-14").style.top === "21.5vw"){
-        document.getElementById("black-14").style.top = "27.5vw";
+    if (document.getElementById("black-14").style.top === "9.5vw"){
+        document.getElementById("black-14").style.top = "15.5vw";
     }  
 }
 function moveBlack15(){
-    if (document.getElementById("black-15").style.top === "21.5vw"){
-        document.getElementById("black-15").style.top = "27.5vw";
+    if (document.getElementById("black-15").style.top === "9.5vw"){
+        document.getElementById("black-15").style.top = "15.5vw";
     }  
 }
 function moveBlack16(){
-    if (document.getElementById("black-16").style.top === "21.5vw"){
-        document.getElementById("black-16").style.top = "27.5vw";
+    if (document.getElementById("black-16").style.top === "9.5vw"){
+        document.getElementById("black-16").style.top = "15.5vw";
     }  
 }
 
